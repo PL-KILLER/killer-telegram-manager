@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv-deps/
+.runtime/
+data/
+__pycache__/
+*.session*
+*.fernet
+*.sqlite*
+*.db
+*.log
+*.pid
+*.zip
+dist/
